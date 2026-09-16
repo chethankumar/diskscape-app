@@ -2,6 +2,7 @@
 
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-black) ![Apple Silicon](https://img.shields.io/badge/Apple%20Silicon-native-black) ![v1.0.0](https://img.shields.io/badge/version-1.0.0-blue)
 
+**[🌐 diskscape-site.vercel.app](https://diskscape-site.vercel.app)** ·
 **[⬇ Download DiskScape 1.0.0](../../releases/latest/download/DiskScape-1.0.0.dmg)**
 
 Native macOS disk space analyzer. See what's eating your disk, stage a cleanup,
